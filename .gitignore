@@ -1,0 +1,6 @@
+# raw and large regenerated files
+data/raw/*.xlsx
+data/processed/wait_times_clean.csv
+data/processed/
+__pycache__/
+.ipynb_checkpoints/
