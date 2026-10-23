@@ -19,10 +19,13 @@ All comparisons use the same quarter in 2019/20 (pre-COVID) and 2024/25, because
 
 - **The longest waits are worse than a decade ago.** The 90th-percentile wait averaged about 26 weeks (range 24–27) from 2009/10 to 2012/13 and is about 31 weeks now.
 - **Regions diverge.** In Q4 2024/25 vs Q4 2019/20, the 90th-percentile wait changed by −4.6 weeks in Fraser, −2.5 in Vancouver Coastal, −2.4 in Vancouver Island, −0.2 in Interior, +10.3 in the Provincial Health Services Authority and +11.9 in Northern.
-- **Joint replacement is getting worse.** Province-wide, the 90th-percentile wait rose by about 13 weeks for hip replacement and 11 weeks for knee replacement. Cataract and spinal surgery improved by about 12 weeks each.
+- **Hip and knee waits run about double the national benchmark.** In Q4 2024/25 the 90th-percentile wait was 52.7 weeks for hip replacement and 54.7 for knee replacement, against the 26-week pan-Canadian benchmark. In 2009/10–2012/13 they averaged about 30 and 36 weeks.
+- **Procedures moved in opposite directions.** Compared with Q4 2019/20, the 90th-percentile wait rose by 13.1 weeks for hip replacement and 9.3 for knee replacement. It fell by 22.4 weeks for spinal/back surgery and 13.7 for cataract surgery (procedures with 100+ surgeries in the quarter).
 - **Hospitals in the same region differ a lot.** In Fraser Health in Q4 2024/25, the 90th-percentile wait ranged from 12 weeks (Delta Hospital) to 45 weeks (Burnaby Hospital).
 
 ![Health authorities page](screenshots/health_authorities.png)
+
+![Procedures page](screenshots/procedures.png)
 
 ## Data
 
